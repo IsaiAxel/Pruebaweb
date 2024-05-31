@@ -1,0 +1,5 @@
+const mostrar = () => {
+    console.log("hola")
+
+}
+mostrar
